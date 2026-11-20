@@ -1,0 +1,6 @@
+sort cases: 6447
+  sort, stable_sort, partial_sort (I), libstdc++ and Mojo: identical
+  sort, stable_sort, partial_sort (D), libstdc++ and Mojo: identical
+  sort, stable_sort, partial_sort (P), libstdc++ and Mojo: identical
+hash lines: 167
+  unordered_map / unordered_set order and std::hash, libstdc++ and Mojo: identical

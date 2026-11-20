@@ -1,0 +1,13 @@
+== clean copy of fcdf3bf in /dev/shm/mojo6_v
+== the translator: tools/cs2x/build_mojo.sh
+== the engine, regenerated from cs/gen into /dev/shm/mojo6_v/regen and compared with mojo/gen/engine.mojo and mojo/cs2mojo_*.txt
+mojo/gen/engine.mojo: 169407 lines, byte-identical to the commit
+mojo/cs2mojo_runtime.txt: 476 lines, byte-identical to the commit
+mojo/cs2mojo_todo.txt: 0 lines, byte-identical to the commit
+== the generated runtime file, written again by mojo/make_primes.sh
+mojo/rt/primes.mojo: byte-identical to the commit
+== the engine, built with mojo/build.sh and an empty cache (/dev/shm/mojo6_v/mojocache)
+built bin/openswmm with Mojo 1.2.0 (2016d0cd) (781 compiler warnings in bin/build.log)
+wd: rc=0 250 s peak=1570 MB killed=False oom_kill 7 -> 7
+-rwxr-xr-x 1 root root 5359368 Nov 20 05:56 mojo/bin/openswmm
+fused multiply-add instructions in the binary: 0

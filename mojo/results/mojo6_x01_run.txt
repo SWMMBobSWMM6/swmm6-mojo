@@ -1,0 +1,2 @@
+mojo6_x01: 452 models  PASS 451, CRASH+RPTDIFF+OUTDIFF 1
+  CRASH+RPTDIFF+OUTDIFF ../../../../tmp/claude-0/-home-claude/9f3dde4c-f353-52c4-b476-e410dd8d4e21/scratchpad/swmm6/eng/tests/verification/surface_r3_2026-10-05/models/et_SIGMA_dry.inp  cannot map the runtime's state block | 

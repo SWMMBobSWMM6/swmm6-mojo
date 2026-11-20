@@ -1,0 +1,33 @@
+atan2 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+cbrt 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+cosh 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+sinh 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+tanh 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+log2 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+expm1 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+log1p 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+hypot 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+fmod 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+remainder 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+round 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+nextafter 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+exp 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+log 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+pow 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+sin 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+cos 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+tan 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+asin 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+acos 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+atan 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+log10 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+floor 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+ceil 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+trunc 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+sqrt 300576 cases, 0 mismatches ( 0 NaN payload/sign, 0 special) 
+libm cases: 8115552 , mismatches: 0
+printf cases: 179756 , mismatches: 0
+printf cases: 101800 , mismatches: 0
+scanf cases: 1728 , mismatches: 0
+misc cases: 752 , mismatches: 0
+rc=0

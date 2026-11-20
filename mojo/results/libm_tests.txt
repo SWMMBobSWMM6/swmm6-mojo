@@ -1,0 +1,48 @@
+Mojo 1.2.0 (2016d0cd)
+== /dev/shm/mojo6_libm_test/vectors.bin
+exp 0 of 1000016 differ, 0 NaN sign, 0 NaN payload
+log 0 of 1000016 differ, 0 NaN sign, 0 NaN payload
+log10 0 of 1000016 differ, 0 NaN sign, 0 NaN payload
+pow 0 of 1000272 differ, 0 NaN sign, 0 NaN payload
+sin 0 of 1000016 differ, 0 NaN sign, 0 NaN payload
+cos 0 of 1000016 differ, 0 NaN sign, 0 NaN payload
+tan 0 of 1000016 differ, 0 NaN sign, 0 NaN payload
+asin 0 of 1000016 differ, 0 NaN sign, 0 NaN payload
+acos 0 of 1000016 differ, 0 NaN sign, 0 NaN payload
+atan 0 of 1000016 differ, 0 NaN sign, 0 NaN payload
+fma skipped ( 1000256 records; the engine does not call it)
+== /dev/shm/mojo6_libm_test/edge.bin
+exp 0 of 300000 differ, 0 NaN sign, 0 NaN payload
+log 0 of 200000 differ, 0 NaN sign, 0 NaN payload
+log10 0 of 300000 differ, 0 NaN sign, 0 NaN payload
+pow 0 of 700000 differ, 0 NaN sign, 0 NaN payload
+sin 0 of 300000 differ, 0 NaN sign, 0 NaN payload
+cos 0 of 300000 differ, 0 NaN sign, 0 NaN payload
+tan 0 of 300000 differ, 0 NaN sign, 0 NaN payload
+asin 0 of 300000 differ, 0 NaN sign, 0 NaN payload
+acos 0 of 300000 differ, 0 NaN sign, 0 NaN payload
+atan 0 of 300000 differ, 0 NaN sign, 0 NaN payload
+== /dev/shm/mojo6_libm_test/vectors2.bin
+cbrt 0 of 1008555 differ, 0 NaN sign, 0 NaN payload
+hypot 0 of 1001681 differ, 0 NaN sign, 0 NaN payload
+atan2 0 of 1001681 differ, 0 NaN sign, 0 NaN payload
+cosh 0 of 1008555 differ, 0 NaN sign, 0 NaN payload
+sinh 0 of 1008555 differ, 0 NaN sign, 0 NaN payload
+tanh 0 of 1008555 differ, 0 NaN sign, 0 NaN payload
+log2 0 of 1008555 differ, 0 NaN sign, 0 NaN payload
+expm1 0 of 1008555 differ, 0 NaN sign, 0 NaN payload
+log1p 0 of 1008555 differ, 0 NaN sign, 0 NaN payload
+frexp skipped ( 1000041 records; the engine does not call it)
+ldexp skipped ( 1000369 records; the engine does not call it)
+== /dev/shm/mojo6_libm_test/exact.bin
+sqrt 0 of 1000028 differ, 0 NaN sign, 0 NaN payload
+floor 0 of 1000028 differ, 0 NaN sign, 0 NaN payload
+ceil 0 of 1000028 differ, 0 NaN sign, 0 NaN payload
+trunc 0 of 1000028 differ, 0 NaN sign, 0 NaN payload
+fabs 0 of 1000028 differ, 0 NaN sign, 0 NaN payload
+round 0 of 1000028 differ, 0 NaN sign, 0 NaN payload
+copysign 0 of 1000784 differ, 0 NaN sign, 0 NaN payload
+records checked: 29364615
+total mismatches: 0
+acos (GLIBC_2.2.5) asin (GLIBC_2.2.5) atan (GLIBC_2.2.5) atan2 (GLIBC_2.2.5) cbrt (GLIBC_2.2.5) ceil (GLIBC_2.2.5) cos (GLIBC_2.2.5) cosh (GLIBC_2.2.5) exp (GLIBC_2.29) expm1 (GLIBC_2.2.5) floor (GLIBC_2.2.5) hypot (GLIBC_2.35) log (GLIBC_2.29) log10 (GLIBC_2.2.5) log1p (GLIBC_2.2.5) log2 (GLIBC_2.29) pow (GLIBC_2.29) round (GLIBC_2.2.5) sin (GLIBC_2.2.5) sinh (GLIBC_2.2.5) sqrt (GLIBC_2.2.5) tan (GLIBC_2.2.5) tanh (GLIBC_2.2.5) trunc (GLIBC_2.2.5) 
+rc=0

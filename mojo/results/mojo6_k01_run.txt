@@ -1,0 +1,1 @@
+mojo6_k01: 480 models  PASS 480

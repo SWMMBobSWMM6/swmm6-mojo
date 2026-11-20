@@ -1,0 +1,14 @@
+[
+{
+"id": "x4f81773fb7b",
+"path": "openswmm.engine/tests/verification/surface_r3_2026-10-05/models/et_SIGMA_dry.inp",
+"status": "PASS",
+"sec": 0.062,
+"rc": 0,
+"first_rpt_diff": null,
+"stderr": "",
+"ref_rc": 0,
+"rpt_sha256": "f8c359a8dd72ad3c00feb2c1154f00c5922717bb20157a55231c76db8a0d355e",
+"out_sha256": "5242d56855e8024620bf9509299fbfb7a3ff4ce4ce12888f48272a3ba3838d1d"
+}
+]
